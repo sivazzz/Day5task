@@ -1,0 +1,61 @@
+{
+    "REASUME": {
+      "name": "Sivaram.M",
+      "picture": "",
+      "email": "sram16039@gmail.com",
+      "phone": "9524590091",
+      "degree": "DME",
+      "location": {
+        "address": "Santhi vinayagar kovil street",
+        "postalCode": "628002",
+        "city": "Thoothukudi",
+        "region": "Indian"
+      },
+      
+    "work": [
+      {
+        "company": "Fusion Engineering",
+        "position": "Service Engineer",
+        "startDate": "05/05/2022",
+        "endDate": "Still work on this Company",
+      }
+    ],
+    "education": [
+      {
+        "institution": "Chandy Polytechnic Collage",
+        "area": "Thoothukudi",
+        "studyType": "Full Time",
+        "startDate": "2018",
+        "endDate": "2020"
+       
+      }
+    ],
+   
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Begineer"
+       
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil ,English",
+        "fluency": "Iam sapeaking fluency tamil not in English"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Playing Cricat"
+        
+      }
+    ]
+  }
+}
+  
+
+
+
+
+   
+  
