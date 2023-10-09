@@ -1,0 +1,29 @@
+// ForEach Loop:
+
+const Person = [{
+    Name : "Sivaram",
+    Age :  "23",
+    Gender : "Male",
+
+  }, {
+    Name: "Muthu",
+    Age: "27",
+    Gender  : "Male",
+  }];
+  
+  Person.forEach((obj) => {
+    for (const [key, value] of Object.entries(obj)) {
+      console.log(`${key} - ${value}`);
+    }
+  });
+
+
+  //For Loop :
+
+  let JASONarray = `{"name":"Siva","age":"23","sports":["cricket","football","batminton"]}`;
+
+  let obj = JSON.parse(JASONarray);
+  let text ="";
+  for (let i= 0; i < obj.sports.length; i++){
+    text += obj.sports[i] +", ";
+  }
